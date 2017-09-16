@@ -1,4 +1,5 @@
 {
+"availability.json" : {
   "isToday": false,
   "launchDate": {
 	"zh_HK": "2017 a1¡¦ 9 a?? 22 a¡X¢Da??a??ao¡¨",
@@ -451,4 +452,5 @@
 	  }
 	}
   }
+}
 }
